@@ -12,5 +12,5 @@ This project demonstrates a basic CI/CD pipeline using GitHub Actions and GitHub
 2. Open `index.html` in any web browser.
 
 ## Live Website Link
+(https://halaabuyousef.github.io/cloud-beginner-cicd-pages-HalaAboYousef/)
 
-[[Paste your GitHub Pages link here after deployment]](https://halaabuyousef.github.io/cloud-beginner-cicd-pages-HalaAboYousef/)
